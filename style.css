@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background: white;
+  color: #111;
+  text-align: center;
+}
+
+header {
+  padding: 60px 20px;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 0.1em;
+}
+
+.subtitle {
+  opacity: 0.6;
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #111;
+  font-weight: bold;
+}
+
+.hero {
+  padding: 80px 20px;
+  font-size: 1.5rem;
+}
+
+.gallery, .writing {
+  padding: 40px 20px;
+}
+
+.card {
+  margin: 20px auto;
+  max-width: 600px;
+  padding: 40px;
+  border: 1px solid #eee;
+}
+
+footer {
+  margin: 60px 0 20px 0;
+  font-size: 0.8rem;
+  opacity: 0.6;
+}
